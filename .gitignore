@@ -43,3 +43,8 @@
 /var/package/*
 !/var/package/*.xml
 
+# ignore ALL .log files
+!/*.tgz
+!/*.sql
+!/*.gip
+
